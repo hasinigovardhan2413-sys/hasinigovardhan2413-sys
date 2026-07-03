@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about building intelligent AI solutions and creating engaging user interfaces. I'm currently exploring AI applications and web development to create meaningful projects.
 
----
+------------------------------------------------------------------------------------------------
 
 ## 🎯 About Me
 - 🧠 **AI & ML Focus**: Building AI agents and machine learning models
@@ -51,20 +51,20 @@ A collection of ML projects demonstrating different algorithms:
 | **Specializations** | Machine Learning, AI Agents, Data Analysis |
 | **Tools** | Git, GitHub, Jupyter Notebook |
 
----
+------------------------------------------------------------------------------------------------
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasinigovardhan2413-sys&show_icons=true&theme=radical&hide_border=true)
 
----
+------------------------------------------------------------------------------------------------
 
 ## 🔗 Connect With Me
 - 💼 **GitHub**: [@hasinigovardhan2413-sys](https://github.com/hasinigovardhan2413-sys)
-- 📧 **Email**: [Add your email]
+- 📧 **Email**: [hasinigovardhan2413@gmail.com]
 - 🌐 **Portfolio**: [Coming Soon!]
 - 💬 **Open for**: Collaborations, Projects, and Learning Opportunities
 
----
+------------------------------------------------------------------------------------------------
 
 ## 📝 Recent Activity
 - 🎉 Recently completed AI Agent project
