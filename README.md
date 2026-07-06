@@ -61,7 +61,7 @@ A collection of ML projects demonstrating different algorithms:
 ## 🔗 Connect With Me
 - 💼 **GitHub**: [@hasinigovardhan2413-sys](https://github.com/hasinigovardhan2413-sys)
 - 📧 **Email**: [hasinigovardhan2413@gmail.com]
-- 🌐 **Portfolio**: ["C:\Users\Govardhan\Desktop\portfolio"]
+- 🌐 **Portfolio**: ["file:///C:/Users/Govardhan/Desktop/portfolio/profile.html"]
 - 💬 **Open for**: Collaborations, Projects, and Learning Opportunities
 
 ------------------------------------------------------------------------------------------------
